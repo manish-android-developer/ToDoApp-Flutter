@@ -1,16 +1,17 @@
-# to_do_app
+# Flutter TODO App 📝
 
-A new Flutter project.
+A simple Flutter TODO application that allows users to create tasks, mark them as completed, and view the list of tasks. The app uses `Provider` for state management and `sqflite` for storing tasks locally in a SQLite database.
 
-## Getting Started
+## Features ✨
 
-This project is a starting point for a Flutter application.
+- Add tasks ➕
+- Mark tasks as completed ✅
+- View list of tasks 📋
+- Persistent storage using SQLite 🗃️
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used 🛠️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Framework for building the app 🚀
+- **Provider**: State management solution 🧑‍💻
+- **sqflite**: SQLite plugin for local database storage 📦
+- **Dart**: Programming language used in Flutter 🌱
